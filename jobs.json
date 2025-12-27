@@ -1,6 +1,5 @@
-{
-  "items": [
-     {
+[
+  {
     "title": "Sales Executive",
     "desc": "Responsible for generating qualified leads, engaging prospective clients, presenting tailored solutions, and converting opportunities into measurable business growth.",
     "level": "Experienced",
@@ -24,5 +23,4 @@
     "level": "Entry-Level",
     "type": "Full-time"
   }
-     ]
-}
+]
