@@ -1,0 +1,28 @@
+{
+  "items": [
+     {
+    "title": "Sales Executive",
+    "desc": "Responsible for generating qualified leads, engaging prospective clients, presenting tailored solutions, and converting opportunities into measurable business growth.",
+    "level": "Experienced",
+    "type": "Full-time"
+  },
+  {
+    "title": "Implementation Consultant",
+    "desc": "Analyzing business requirements, configuring and implementing solutions, coordinating deployments, ensuring successful client adoption.",
+    "level": "Experienced",
+    "type": "Full-time"
+  },
+  {
+    "title": "Remote Support",
+    "desc": "Provides real-time assistance by diagnosing issues remotely, resolving queries, and ensuring uninterrupted system satisfaction.",
+    "level": "Entry-Level",
+    "type": "Full-time"
+  },
+  {
+    "title": "SQL Developer",
+    "desc": "Assists in SQL database queries, ensuring smooth system operations, resolving bugs, and supporting maintenance tasks.",
+    "level": "Entry-Level",
+    "type": "Full-time"
+  }
+     ]
+}
