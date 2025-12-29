@@ -23,6 +23,12 @@
       "desc": "Assists in SQL database queries, ensuring smooth system operations, resolving bugs, and supporting maintenance tasks.",
       "level": "Entry-Level",
       "type": "Full-time" 
+    },
+    {
+      "title": "Tech Lead",
+      "desc": "Assists in SQL database queries, ensuring smooth system operations, resolving bugs, and supporting maintenance tasks.",
+      "level": "Experienced",
+      "type": "Full-time" 
     }
   ]
 }
